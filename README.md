@@ -92,8 +92,7 @@ Indexes were created on frequently queried foreign key columns to improve query 
 ├── queries.sql
 ├── DESIGN.md
 ├── README.md
-└── images
-    └── erd.png
+└── erd.png
 ```
 
 ---
